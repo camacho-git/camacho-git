@@ -1,8 +1,45 @@
 # 👨‍💻 Ricardo Camacho
 
-**`Analista de Dados Pleno`**
+📊 Analista de Dados | Power BI | SQL Oracle | Excel
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Sou profissional de tecnologia com mais de 20 anos de experiência em TI, formado em Ciências da Computação pela Uninove e pós-graduado em Cloud Computing pelo Senac.
+
+Ao longo da minha trajetória, atuei com suporte técnico, análise de sistemas e administração do ERP TOTVS Winthor, desenvolvendo conhecimentos em processos de negócio, bancos de dados e geração de informações gerenciais.
+
+Nos últimos anos, direcionei minha carreira para a Análise de Dados e Business Intelligence (BI), unindo minha experiência em sistemas corporativos ao uso de ferramentas de análise e visualização de dados.
+
+🚀 Minha trajetória profissional
+Análise de Dados e Power BI: desenvolvimento de dashboards e relatórios interativos para apoiar a tomada de decisões e acompanhar indicadores de desempenho.
+SQL Oracle: criação de consultas e relatórios para extração, análise e organização de dados de diferentes áreas da empresa.
+Microsoft Excel: utilização de recursos para análise, tratamento e consolidação de informações.
+TOTVS Winthor: mais de 9 anos de experiência com administração, suporte e atendimento às necessidades dos usuários do sistema.
+Tecnologia da Informação: experiência em suporte técnico, análise de sistemas e resolução de problemas de negócio.
+📈 Projetos desenvolvidos em Power BI
+Neste GitHub, compartilho meus projetos de Business Intelligence, demonstrando na prática minhas habilidades em análise de dados, construção de indicadores e desenvolvimento de dashboards.
+
+Entre os principais segmentos que venho explorando, estão:
+
+📊 Gerencial: indicadores de desempenho e apoio à tomada de decisões.
+💰 Vendas: análise de faturamento, desempenho comercial e resultados.
+🚚 Logística: acompanhamento de indicadores e análise de operações.
+👥 Recursos Humanos (RH): visualização de indicadores e informações para gestão de pessoas.
+🛠️ Tecnologias e ferramentas
+Power BI
+SQL Oracle
+Microsoft Excel
+TOTVS Winthor
+Análise e visualização de dados
+Business Intelligence (BI)
+
+🎯 Meu objetivo
+Transformar dados em informações relevantes, criando dashboards intuitivos e indicadores que ajudem as empresas a compreender seus resultados, identificar oportunidades e tomar decisões mais estratégicas.
+
+Acredito que minha experiência em TI, aliada ao conhecimento dos processos de negócio e às ferramentas de análise de dados, contribui para desenvolver soluções de BI alinhadas às necessidades das empresas.
+
+
+Seja bem-vindo ao meu portfólio! Explore meus projetos e acompanhe meu desenvolvimento na área de Análise de Dados e Power BI.
+
+
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
